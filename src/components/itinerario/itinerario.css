@@ -1,0 +1,17 @@
+.itinerario{
+    display: flex;
+    align-items: center;
+    padding: 30px 10px;
+    justify-content: space-between;
+}
+
+
+
+.imgOrigen img, .imgDestino img{
+    width: 180px;
+    border-radius: 20px;
+    padding: 0;
+}
+i{
+    font-size: 50px;
+}

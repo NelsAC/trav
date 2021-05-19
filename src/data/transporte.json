@@ -1,0 +1,46 @@
+{
+  "transportes":[
+    {
+      "id": "0",
+      "tipo": "Aéreo",
+      "icono": "fas fa-plane"
+    },
+    {
+      "id": "1",
+      "tipo": "Terrestre",
+      "icono": "fas fa-shuttle-van"
+    }
+  ],
+  "lugares":[
+    {
+      "id": "0",
+      "ciudad": "Lima",
+      "imagen": "https://i.imgur.com/OkTX8cM.jpg"
+    },
+    {
+      "id": "1",
+      "ciudad": "Cusco",
+      "imagen": "https://i.imgur.com/4YkxHFU.jpg"
+    },
+    {
+      "id": "2",
+      "ciudad": "Piura",
+      "imagen": "https://i.imgur.com/zx096Fd.jpg"
+    },
+    {
+      "id": "3",
+      "ciudad": "Tumbes",
+      "imagen": "https://i.imgur.com/UoKfWzf.jpg"
+    },
+    {
+      "id": "4",
+      "ciudad": "Ayacucho",
+      "imagen": "https://i.imgur.com/5gc66Zy.jpg"
+    },
+    {
+      "id": "5",
+      "ciudad": "Ica",
+      "imagen": "https://i.imgur.com/ubpKP8u.jpg"
+    }
+  ]
+}

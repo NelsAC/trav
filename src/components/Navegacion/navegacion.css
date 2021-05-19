@@ -1,0 +1,21 @@
+header{
+    align-items: center;
+    background-color: rgba(28, 10, 194, 0.705);
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 100px;
+    padding: 10px 20px;
+}
+.fab.fa-github{
+    padding: 10px 20px;
+}
+.fab.fa-github{
+    font-size: 30px;
+    color: #fff;
+    transition: .3s ease-in-out;
+}
+.fab.fa-github:hover{
+    color: #36ECBC;
+}
